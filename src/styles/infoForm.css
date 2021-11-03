@@ -1,0 +1,14 @@
+.field {
+    display: flex;
+    flex-direction: column;
+    padding: .5rem
+}
+#submitRequest {
+    margin: 1rem .5rem;
+    padding: .5rem ;
+    font-size: 1.1rem;
+    background-color: blue;
+}
+.label {
+    font-size: large;
+}
